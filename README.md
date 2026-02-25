@@ -23,50 +23,15 @@
 </p>
 
 ---
+⚡ About Me ⚡
 
-## ⚡ Professional Summary ⚡
+Hi! I’m a Data Engineer passionate about designing and building scalable, reliable data systems and pipelines. I focus on data quality, reproducibility, and efficiency, turning raw data into actionable insights for analytics, automation, and machine learning.
 
-**Data Engineering & Pipelines**  
-- Design and implement scalable data workflows using **PySpark, Apache NiFi, Airflow, FastAPI, Docker, Trino, and Apache Iceberg**  
-- Build high-performance ETL/ELT pipelines for structured and unstructured data  
-- Work with databases including **MySQL** and **MongoDB** to manage large-scale datasets  
-- Ensure data reliability, integrity, and operational efficiency in both batch and streaming environments  
+I love tackling complex data challenges, optimizing workflows, and continuously learning new approaches to improve both systems and myself.
 
-**Machine Learning & Data Science**  
-- Develop end-to-end ML pipelines: data preprocessing, feature engineering, model training, evaluation, and deployment  
-- Focus on automation, reproducibility, and production readiness for ML models that deliver measurable business impact  
-- Apply **prompt engineering** and **Vibe coding** to enhance AI-driven solutions and optimize model interactions  
+Outside of work, I enjoy video games, hitting the gym, and exploring new technologies.
 
-**Data Extraction & Automation**  
-- Automate complex data processing workflows on-premises and in cloud environments  
-- Optimize data workflows for performance, scalability, and maintainability  
-
----
-
-## 🧬 Technical Skills
-
-- **Programming:** Python, JavaScript  
-- **Data Engineering & DevOps:** PySpark, Airflow, FastAPI, Docker, MLflow, Apache NiFi, Apache Iceberg, Trino  
-- **Data Querying & Storage:** MySQL, MongoDB  
-- **Machine Learning & AI:** ML pipelines, model training, evaluation, automation, prompt engineering 
-- **Cloud (supporting role):** GCP (Cloud Storage, lightweight orchestration)  
-
----
-
-## 💾 Projects & Focus
-
-Check out my repositories for work related to:
-
-- ⚙️ Data engineering & pipelines  
-- 📈 Data analysis  
-- 🧠 Machine learning  
-- 📊 Visualization & automation  
-
----
-
-## 💚 Extras
-
-Outside of work, I enjoy video games and going to the gym. 😂😊💪💻
+"The more I learn, the more I realize how much I don't know — and yes, I made that up!" 😄
 
 ---
 
