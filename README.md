@@ -64,9 +64,9 @@
 <tr>
 <td>
 
-🔭 **Focused on:** Data pipelines & ML infrastructure
-🌱 **Currently exploring:** PySpark, Trino & Apache Iceberg
-🛠️ **Toolkit:** Claude Code + Cursor for AI assisted dev
+🔭 **Focused on:** Data pipelines & ML infrastructure  
+🌱 **Currently exploring:** PySpark, Trino & Apache Iceberg  
+🛠️ **Toolkit:** Claude Code + Cursor for AI assisted dev  
 💬 **Ask me about:** Airflow, ETL design, or FastAPI
 
 </td>
@@ -77,7 +77,11 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:32CD32,100:1E90FF&height=3&section=header" width="100%"/>
 </p>
 
-## 🛠️ Tech Stack
+## Projects
+
+> I've built a number of projects while learning and experimenting across Data Engineering, Machine Learning, and AI. **I'll be sharing them here once I'm ready to share them with the world.** Stay tuned. 👀
+
+## Tech Stack
 
 **Languages**
 
