@@ -13,7 +13,7 @@
 
 <!-- Rotating typing SVG, alternating dodger blue / lime -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1500&colors=1E90FF,32CD32,1E90FF,32CD32,1E90FF&center=true&vCenter=true&width=800&lines=Python+%7C+JavaScript;MLflow;MySQL+%7C+PostgreSQL+%7C+Docker+%7C+Airflow;FastAPI+%7C+PySpark+%7C+Trino+%7C+Apache+NiFi+%7C+Apache+Iceberg;Claude+Code+%7C+Cursor+%7C+AWS" alt="Tech Stack Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1500&colors=1E90FF,32CD32,1E90FF,32CD32,1E90FF&center=true&vCenter=true&width=800&lines=Python+%7C+JavaScript+%7C+C%2B%2B;MLflow;MySQL+%7C+PostgreSQL+%7C+Docker+%7C+Airflow;FastAPI+%7C+PySpark+%7C+Trino+%7C+Apache+NiFi+%7C+Apache+Iceberg;Claude+Code+%7C+Cursor+%7C+AWS" alt="Tech Stack Animation"/>
 </p>
 
 <p align="center">
@@ -34,9 +34,9 @@
 <tr>
 <td>
 
-🔭 **Focused on:** Data pipelines & ML infrastructure
-🌱 **Currently exploring:** PySpark, Trino & Apache Iceberg
-🛠️ **Toolkit:** Claude Code + Cursor for AI-assisted dev
+🔭 **Focused on:** Data pipelines & ML infrastructure  
+🌱 **Currently exploring:** PySpark, Trino & Apache Iceberg  
+🛠️ **Toolkit:** Claude Code + Cursor for AI-assisted dev  
 💬 **Ask me about:** Airflow, ETL design, or FastAPI
 
 </td>
@@ -53,6 +53,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 </p>
 
 **Data Engineering & ML**
