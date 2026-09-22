@@ -28,7 +28,7 @@
 
 > My journey into Data Engineering started in a rather unexpected place: **financial markets and trading**.
 >
-> I became interested in trading because I wanted to understand whether data, statistics, and machine learning could be used to find patterns in markets and build systematic strategies. So I started collecting market data, studying statistics, experimenting with machine learning models, and trying to put everything together.
+> I became interested in stock trading because I wanted to understand whether data, statistics, and machine learning could be used to find patterns in markets and build systematic strategies. So I started collecting market data, studying statistics, experimenting with machine learning models, and trying to put everything together.
 >
 > Then things got messy.
 >
