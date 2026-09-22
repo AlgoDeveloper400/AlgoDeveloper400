@@ -34,9 +34,9 @@
 >
 > I quickly realized that building the model was only a small part of the problem. I had huge amounts of raw market data to deal with, different formats, missing values, timestamps, storage problems, and constantly growing datasets. Before I could even train a model or test a strategy, I had to figure out how to collect, clean, transform, store, and process the data properly.
 >
-> The funny thing was that I started spending more time **solving the data problems than solving the trading problems**.
+> The funny thing was that I started spending more time **solving the data problems than solving the strategy problems**.
 >
-> That's when I started discovering Data Engineering.
+> That's when I discovered Data Engineering.
 >
 > I realized that when you're trying to solve a complex, high dimensional problem with statistics and machine learning, the model is only as good as the data and the systems behind it. I became fascinated by the engineering required to turn messy, raw data into something reliable, structured, and actually useful.
 >
